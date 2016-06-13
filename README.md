@@ -32,3 +32,7 @@ Metronic 拥有2个界面：1个前端展现界面，和一个管理系统界面
 <li><a href="javascript:;" class="clickable" data-section="#upgrade">15. 升级变更信息</a></li>
 <li><a href="javascript:;" class="clickable" data-section="#end">16. 结束语</a></li>
 </ul>
+
+### 使用说明： ###
+
+已经写好了 gulp 任务， 只要在命令行里面执行 gulp ，然后打开浏览器输入 [http://localhost:8888](http://localhost:8888 "http://localhost:8888")  即可预览效果 
