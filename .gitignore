@@ -1,1 +1,14 @@
+angular/*
+dist/*
+.tmp/*
+.mvn
+.idea/
 .DS_Store
+Pods
+Podfile.lock
+xcuserdata
+gen
+target
+*.class
+node_modules
+.sass-cache
